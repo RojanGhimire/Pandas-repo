@@ -8,10 +8,10 @@ list.loc['a']= "bulbasaur"     #loc locate function can be used to locate or pri
 
 # print(list)
 
-studyhour  = {"sunday":12,"monday":11,"tuesday":5,"wednesday":2}
-series = pd.Series(studyhour)
+studyhour  = {"sunday":12,"monday":11,"tuesday":5,"wednesday":2}   #using dictionaries in series to show data connection
+series = pd.Series(studyhour)    
 # print(series.loc["monday"])
-print(series[series >= 6])
+print(series[series >= 6])    
 
 
 
