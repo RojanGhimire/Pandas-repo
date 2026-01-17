@@ -11,10 +11,10 @@ This code has different topics of pandas covered in it like:
 <ul>
 <li> SERIES </l>
 <li> SELECTION</l>
-<li> DATAFRAMES yet</l>
-<li> FILTERING yet</l>
-<li> IMPORTING yet</l>
-<li> AGGREGATION FUNCTIONS yet</l>
+<li> DATAFRAMES </l>
+<li> FILTERING </l>
+<li> IMPORTING </l>
+<li> AGGREGATION FUNCTIONS </l>
 
 
 </ul>
