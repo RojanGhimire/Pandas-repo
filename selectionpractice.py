@@ -9,4 +9,4 @@ df = df.loc[f"{name}"]
 try:
     print(df)
 except KeyError:
-    print(f"{name} not found2")
+    print(f"{name} not found")

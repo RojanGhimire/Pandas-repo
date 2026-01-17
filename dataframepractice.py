@@ -10,6 +10,7 @@ df["class"] = [11,12,11,12,12]
 #add rows
 rows = pd.DataFrame([{"name":"shyam","roll no":69,"class":12},
                      {"name":"angelico","roll no":70,"class":11}],index = [6,7])
+
 df = pd.concat([df,rows])  #connecting or joining tyo dataframes using concat.
 
 
